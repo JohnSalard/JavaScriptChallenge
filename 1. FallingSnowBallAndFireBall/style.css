@@ -1,0 +1,19 @@
+body {
+  background-image: url("AokijiVSAkainu.png");
+  /* background-position: center; */
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#snow {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+#fire {
+  float: right;
+  width: 50%;
+  height: 100%;
+}
